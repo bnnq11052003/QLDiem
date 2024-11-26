@@ -1,0 +1,379 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\controllers\\sinhviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\controllers\\hocphancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\controllers\\hocphancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\controllers\\historycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\controllers\\giangviencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\controllers\\diemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\controllers\\diemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\controllers\\apiqldiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\controllers\\apiqldiemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\models\\sqlnewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\models\\sqlnewcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\models\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\models\\diem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\models\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\models\\giangvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.GIANGVIEN.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.DIEM.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.HOCPHAN.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.SINHVIEN.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\models\\hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\models\\hocphan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\models\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\models\\taikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|c:\\users\\admin\\downloads\\quanlydiem\\quanlidiemapi\\quanlidiemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{67DDE5EF-F1FD-451A-8901-D42CBE7AE247}|QuanLiDiemAPI\\QuanLiDiemAPI.csproj|solutionrelative:quanlidiemapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Van Truong\\Desktop\\QUANLYDIEM veerr new\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\SqlContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiemController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\DiemController.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Controllers\\DiemController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\DiemController.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Controllers\\DiemController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:47:07.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HocPhanController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\HocPhanController.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Controllers\\HocPhanController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\HocPhanController.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Controllers\\HocPhanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:46:57.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GiangVienController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\GiangVienController.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Controllers\\GiangVienController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\GiangVienController.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Controllers\\GiangVienController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:45:27.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:43:03.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SqlnewContext.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\SqlnewContext.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Models\\SqlnewContext.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\SqlnewContext.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Models\\SqlnewContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T17:27:11.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "APIQLDIEMController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\APIQLDIEMController.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Controllers\\APIQLDIEMController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\APIQLDIEMController.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Controllers\\APIQLDIEMController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:17:42.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SinhVienController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\SinhVienController.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Controllers\\SinhVienController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\SinhVienController.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Controllers\\SinhVienController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:44:08.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\HistoryController.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Controllers\\HistoryController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Controllers\\HistoryController.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Controllers\\HistoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T03:49:10.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T22:55:11.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\appsettings.json",
+              "RelativeToolTip": "QuanLiDiemAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T10:12:06.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.HOCPHAN.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.HOCPHAN.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.HOCPHAN.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-26T21:58:17.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.SINHVIEN.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.SINHVIEN.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.SINHVIEN.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-26T21:59:36.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "dbo.DIEM.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.DIEM.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.DIEM.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-26T22:00:13.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Program.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Program.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T07:35:39.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SqlContext.cs",
+              "DocumentMoniker": "C:\\Users\\Van Truong\\Desktop\\QUANLYDIEM veerr new\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\SqlContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Van Truong\\Desktop\\QUANLYDIEM veerr new\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\SqlContext.cs",
+              "ToolTip": "C:\\Users\\Van Truong\\Desktop\\QUANLYDIEM veerr new\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\SqlContext.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Van Truong\\Desktop\\QUANLYDIEM veerr new\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\SqlContext.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAcwG0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:16:46.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Giangvien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\Giangvien.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Models\\Giangvien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\Giangvien.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Models\\Giangvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:17:10.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Diem.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\Diem.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Models\\Diem.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\Diem.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Models\\Diem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:17:17.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "dbo.GIANGVIEN.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.GIANGVIEN.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/DESKTOP_EUQTHQU_SQLEXPRESS01/sqlnew/True/SqlTable/dbo.GIANGVIEN.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-26T22:00:22.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\History.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Models\\History.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\History.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Models\\History.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:22:01.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Hocphan.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\Hocphan.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Models\\Hocphan.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\Hocphan.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Models\\Hocphan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:17:33.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Taikhoan.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\Taikhoan.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Models\\Taikhoan.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\Taikhoan.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Models\\Taikhoan.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:22:07.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Sinhvien.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "QuanLiDiemAPI\\Models\\Sinhvien.cs",
+              "ToolTip": "C:\\Users\\Admin\\Downloads\\QUANLYDIEM\\QuanLiDiemAPI\\QuanLiDiemAPI\\Models\\Sinhvien.cs",
+              "RelativeToolTip": "QuanLiDiemAPI\\Models\\Sinhvien.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T10:17:38.759Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

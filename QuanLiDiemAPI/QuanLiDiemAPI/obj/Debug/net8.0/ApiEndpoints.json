@@ -1,0 +1,497 @@
+[
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.AccountController",
+    "Method": "Login",
+    "RelativePath": "api/APIQLDIEM/Account/{username}\u0026{password}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.AccountController",
+    "Method": "CreateAccount",
+    "RelativePath": "api/APIQLDIEM/Account/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "account",
+        "Type": "QuanLiDiemAPI.Models.Taikhoan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.AccountController",
+    "Method": "EditAccount",
+    "RelativePath": "api/APIQLDIEM/Account/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "taikhoan",
+        "Type": "QuanLiDiemAPI.Models.Taikhoan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.AccountController",
+    "Method": "getLogin",
+    "RelativePath": "api/APIQLDIEM/Account/GetAllAcount",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.DiemController",
+    "Method": "updatediem",
+    "RelativePath": "api/APIQLDIEM/Diem/edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "diem",
+        "Type": "QuanLiDiemAPI.Models.Diem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.DiemController",
+    "Method": "getalldiem",
+    "RelativePath": "api/APIQLDIEM/Diem/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.DiemController",
+    "Method": "getmahp",
+    "RelativePath": "api/APIQLDIEM/Diem/getdiemmahp/{magv}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "magv",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.DiemController",
+    "Method": "getdiemmahp",
+    "RelativePath": "api/APIQLDIEM/Diem/getmahp/{mahp}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mahp",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.DiemController",
+    "Method": "getdiemmsv",
+    "RelativePath": "api/APIQLDIEM/Diem/getmsv/{msv}/{magv}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "msv",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "magv",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.DiemController",
+    "Method": "themdiem",
+    "RelativePath": "api/APIQLDIEM/Diem/them",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "diemadd",
+        "Type": "QuanLiDiemAPI.Models.Diem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.GiangVienController",
+    "Method": "GetGiangVien",
+    "RelativePath": "api/APIQLDIEM/GiangVien/{mGv}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mGv",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.GiangVienController",
+    "Method": "ThemGiangVien",
+    "RelativePath": "api/APIQLDIEM/GiangVien/AddGv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "giangvien",
+        "Type": "QuanLiDiemAPI.Models.Giangvien",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.GiangVienController",
+    "Method": "DeleteGv",
+    "RelativePath": "api/APIQLDIEM/GiangVien/DeleteGv/{magv}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "magv",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.GiangVienController",
+    "Method": "EditGv",
+    "RelativePath": "api/APIQLDIEM/GiangVien/Edit/{magv}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "magv",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "giangvien",
+        "Type": "QuanLiDiemAPI.Models.Giangvien",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.SinhVientroller",
+    "Method": "getmagv",
+    "RelativePath": "api/APIQLDIEM/GiangVien/Get/{magv}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "magv",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.GiangVienController",
+    "Method": "GetGiangVien",
+    "RelativePath": "api/APIQLDIEM/GiangVien/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.SinhVientroller",
+    "Method": "search",
+    "RelativePath": "api/APIQLDIEM/GiangVien/Search/{magv}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "magv",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.HistoryController",
+    "Method": "AddHistory",
+    "RelativePath": "api/APIQLDIEM/History/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "his",
+        "Type": "QuanLiDiemAPI.Models.History",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.HistoryController",
+    "Method": "deletehistory",
+    "RelativePath": "api/APIQLDIEM/History/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.HistoryController",
+    "Method": "deleteallhistory",
+    "RelativePath": "api/APIQLDIEM/History/deleteall",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.HistoryController",
+    "Method": "gethistory",
+    "RelativePath": "api/APIQLDIEM/History/get",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.HistoryController",
+    "Method": "gethistory",
+    "RelativePath": "api/APIQLDIEM/History/get/{mgv}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mgv",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.HocPhanController",
+    "Method": "getmhp",
+    "RelativePath": "api/APIQLDIEM/HocPhan/{mhp}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mhp",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.HocPhanController",
+    "Method": "updatehocphan",
+    "RelativePath": "api/APIQLDIEM/HocPhan/{sua}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mhp",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "hp",
+        "Type": "QuanLiDiemAPI.Models.Hocphan",
+        "IsRequired": true
+      },
+      {
+        "Name": "sua",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.HocPhanController",
+    "Method": "deletehocphan",
+    "RelativePath": "api/APIQLDIEM/HocPhan/delete/{mhp}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mhp",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.HocPhanController",
+    "Method": "getallhocphan",
+    "RelativePath": "api/APIQLDIEM/HocPhan/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.HocPhanController",
+    "Method": "themhocphan",
+    "RelativePath": "api/APIQLDIEM/HocPhan/them",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hp",
+        "Type": "QuanLiDiemAPI.Models.Hocphan",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.SinhVientroller",
+    "Method": "ThemSinhVien",
+    "RelativePath": "api/APIQLDIEM/SinhVien/AddSv",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sinhvien",
+        "Type": "QuanLiDiemAPI.Models.Sinhvien",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.SinhVientroller",
+    "Method": "DeleteSv",
+    "RelativePath": "api/APIQLDIEM/SinhVien/DeleteSv/{msv}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "msv",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.SinhVientroller",
+    "Method": "Edit",
+    "RelativePath": "api/APIQLDIEM/SinhVien/Edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sinhvien",
+        "Type": "QuanLiDiemAPI.Models.Sinhvien",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.SinhVientroller",
+    "Method": "GetAll",
+    "RelativePath": "api/APIQLDIEM/SinhVien/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "QuanLiDiemAPI.Controllers.SinhVientroller",
+    "Method": "GetsvMhp",
+    "RelativePath": "api/APIQLDIEM/SinhVien/GetSVmgv/{masv}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "masv",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
